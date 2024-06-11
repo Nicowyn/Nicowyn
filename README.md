@@ -1,7 +1,7 @@
 - 👋 Hi,This is Yining's Git
 - 👀 I’m a graduate student in my last year on Statistics and Econometrics.I'm passionate on Data Science and AI domain.
 - 🌱 I’m currently consolidate my statistical theory and coding skills.
-- 📫 I'll post my personal learning notes and quick thoughts there.
+- 📫 Here is a zone for posting my personal learning notes and quick thoughts.
 - ⚡ Trying to be slashie not a working nerd.
 
 <!---
